@@ -3,7 +3,7 @@ Plotly: Data Visualization
 Plotly is known as an interactive Python library for creating charts, graphs, maps and multidimensional models. It is most commonly used for data analysis, dashboard development and integration with other web applications. It also works well for web-based rendering including HTML, CSS and JavaScript. Plotly is similar, in its use, to Matplotlib. However, the key differences are that Plotly has interactivty capability and can generate 3D models and map visuals, whereas Matplotlib focuses on static images. Plotly also integrates with other libraries and environments included Pandas, NumPY, Dash and Jupyter Notebooks.
 
 Installation Instructions
-1. Clone GitHub Repository:
+1. Clone GitHub Repository: https://github.com/cdeperro1/Plotly
 2. Open Jupyter Notebook from Anaconda 
 3. Ensure Jupyter notebook is running at the latest version. If necessary, use pip and upgrade to install:
    pip install --upgrade notebook
